@@ -1,1 +1,2 @@
-# Edison
+# Repo created for Edison project
+# 
